@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\aleee\\onedrive\\asiakirjat\\unreal projects\\operationanaconda\\source\\operationanaconda\\operationanacondagamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\aleee\\onedrive\\asiakirjat\\unreal projects\\operationanaconda\\intermediate\\build\\win64\\operationanacondaeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\aleee\\onedrive\\asiakirjat\\unreal projects\\operationanaconda\\intermediate\\build\\win64\\unrealeditor\\development\\operationanaconda\\definitions.operationanaconda.h",
+            "c:\\users\\aleee\\onedrive\\asiakirjat\\unreal projects\\operationanaconda\\source\\operationanaconda\\operationanacondagamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\aleee\\onedrive\\asiakirjat\\unreal projects\\operationanaconda\\intermediate\\build\\win64\\unrealeditor\\inc\\operationanaconda\\operationanacondagamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

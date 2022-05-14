@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "OperationAnaconda",
+			"Path": "C:\\Users\\aleee\\OneDrive\\Asiakirjat\\Unreal Projects\\OperationAnaconda\\Source\\OperationAnaconda.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "OperationAnacondaEditor",
+			"Path": "C:\\Users\\aleee\\OneDrive\\Asiakirjat\\Unreal Projects\\OperationAnaconda\\Source\\OperationAnacondaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

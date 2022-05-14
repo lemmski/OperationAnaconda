@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\aleee\\OneDrive\\Asiakirjat\\Unreal Projects\\OperationAnaconda\\Source\\OperationAnaconda\\OperationAnaconda.Build.cs",
+		"C:\\Users\\aleee\\OneDrive\\Asiakirjat\\Unreal Projects\\OperationAnaconda\\Source\\OperationAnaconda.Target.cs",
+		"C:\\Users\\aleee\\OneDrive\\Asiakirjat\\Unreal Projects\\OperationAnaconda\\Source\\OperationAnacondaEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.1"
+}

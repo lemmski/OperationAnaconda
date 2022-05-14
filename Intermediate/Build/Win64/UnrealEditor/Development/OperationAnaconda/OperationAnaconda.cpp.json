@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\aleee\\onedrive\\asiakirjat\\unreal projects\\operationanaconda\\source\\operationanaconda\\operationanaconda.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\aleee\\onedrive\\asiakirjat\\unreal projects\\operationanaconda\\intermediate\\build\\win64\\operationanacondaeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\aleee\\onedrive\\asiakirjat\\unreal projects\\operationanaconda\\intermediate\\build\\win64\\unrealeditor\\development\\operationanaconda\\definitions.operationanaconda.h",
+            "c:\\users\\aleee\\onedrive\\asiakirjat\\unreal projects\\operationanaconda\\source\\operationanaconda\\operationanaconda.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

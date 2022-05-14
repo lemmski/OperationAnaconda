@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\OperationAnaconda.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\OperationAnaconda.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\OperationAnacondaEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\OperationAnaconda">
+      <UniqueIdentifier>{C7639238-8627-39FF-8C66-9DF3C391D5C7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\OperationAnaconda\MyArtilleryActor.cpp">
+      <Filter>Source\OperationAnaconda</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OperationAnaconda\MyArtilleryActor.h">
+      <Filter>Source\OperationAnaconda</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\OperationAnaconda\OperationAnaconda.Build.cs">
+      <Filter>Source\OperationAnaconda</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\OperationAnaconda\OperationAnaconda.cpp">
+      <Filter>Source\OperationAnaconda</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OperationAnaconda\OperationAnaconda.h">
+      <Filter>Source\OperationAnaconda</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\OperationAnaconda\OperationAnacondaGameModeBase.cpp">
+      <Filter>Source\OperationAnaconda</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OperationAnaconda\OperationAnacondaGameModeBase.h">
+      <Filter>Source\OperationAnaconda</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
